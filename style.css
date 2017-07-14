@@ -1,0 +1,20 @@
+header{
+  height:90px; 
+  background: hotpink;
+  text-align:center;
+  color: white;
+  font-family:
+}
+
+body{
+  background:lightpink;
+}
+img{
+  height:200px;
+  border: 2px solid black;
+ 
+ 
+} 
+h3{
+  color:deeppink;
+}
